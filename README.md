@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ogade9/Solutions/tree/master/0268-missing-number) |
+| [1189-maximum-number-of-balloons](https://github.com/ogade9/Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ogade9/Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ogade9/Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/ogade9/Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ogade9/Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
@@ -48,5 +50,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/ogade9/Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ogade9/Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 <!---LeetCode Topics End-->
