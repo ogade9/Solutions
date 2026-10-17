@@ -4,38 +4,28 @@ public:
         vector<int> loss_one;
         vector<int> loss_zero;
         vector<vector<int>> answer;
-        int count = 1;
+        int count = 0;
         int count_w = 1;
         unordered_map<int,int> m;
-        unordered_map<int,int> n;
         for(int i=0;i<matches.size();i++){
-            if(m.contains(matches[i][1])){
-                count++;
-                m[matches[i][1]] = count;
+                int winner = matches[i][0];
+                int loser = matches[i][1];
+            if(m.find(winner) == m.end()){
+                m[winner] = 0;
             }
-            if(n.contains(matches[i][0])){
-                count_w++;
-                n[matches[i][0]] = count_w;
+            if(m.find(loser) == m.end()){
+                m[loser] = 0;
             }
-            if(!m.contains(matches[i][1])){
-                m[matches[i][1]] = 1;
-            }
-            if(!n.contains(matches[i][0])){
-                n[matches[i][0]] = 1;
-            }
+            m[loser]++;
         }
         for(const auto& [key,value] : m){
             if(value == 1){
                 loss_one.push_back(key);
             }
-            if(n.contains(key)){
-               n.erase(key);
+            if(value==0){
+                loss_zero.push_back(key);
             }
         }
-        for(const auto& [key,value] :n){
-            loss_zero.push_back(key);
-        }
-        
         sort(loss_one.begin(),loss_one.end());
         sort(loss_zero.begin(),loss_zero.end());
         answer.push_back(loss_zero);
