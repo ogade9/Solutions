@@ -55,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/ogade9/Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ogade9/Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ogade9/Solutions/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ogade9/Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
