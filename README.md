@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/ogade9/Solutions/tree/master/0071-simplify-path) |
 | [1189-maximum-number-of-balloons](https://github.com/ogade9/Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ogade9/Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ogade9/Solutions/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/ogade9/Solutions/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
