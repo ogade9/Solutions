@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ogade9/Solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/ogade9/Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/ogade9/Solutions/tree/master/0071-simplify-path) |
 | [1544-make-the-string-great](https://github.com/ogade9/Solutions/tree/master/1544-make-the-string-great) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ogade9/Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ogade9/Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
