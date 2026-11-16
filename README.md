@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ogade9/Solutions/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/ogade9/Solutions/tree/master/0322-coin-change) |
 | [0525-contiguous-array](https://github.com/ogade9/Solutions/tree/master/0525-contiguous-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ogade9/Solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ogade9/Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -81,8 +82,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ogade9/Solutions/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/ogade9/Solutions/tree/master/0322-coin-change) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ogade9/Solutions/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ogade9/Solutions/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ogade9/Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ogade9/Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
